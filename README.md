@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" alt="Rocket GIF"/>
+<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNrZm51eDM2aDdrNnB3MDhvOXppang4NHA3cHZlejY0a2xqbXQzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/21seR54CBB4HJml58Q/giphy.gif" width="200" alt="Rocket GIF"/> -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFreHRqcHBydmhlNnA3OGFjYWZvOTRmeTZ6cXQ4b29wb3JvOHNxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/utz68KlKM5LGBVF6HZ/giphy.gif"  width="200"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Menuki Peiris</h1>
