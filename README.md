@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Menuki Peiris</h1>
+
 <div align="center">
-<!-- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNrZm51eDM2aDdrNnB3MDhvOXppang4NHA3cHZlejY0a2xqbXQzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/21seR54CBB4HJml58Q/giphy.gif" width="200" alt="Rocket GIF"/> -->
- <h1 align="center">Hi 👋, I'm Menuki Peiris</h1> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFreHRqcHBydmhlNnA3OGFjYWZvOTRmeTZ6cXQ4b29wb3JvOHNxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/utz68KlKM5LGBVF6HZ/giphy.gif"  width="200"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="400" alt="Snake animation" />
 </div>
 
 <div align="center">
@@ -32,18 +33,26 @@
 
 <h3 align="center">⚡ Stats ⚡</h3>
 
+<br>
+
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=menukipeiris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menukipeiris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=menukipeiris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=menukipeiris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=menukipeiris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=menukipeiris&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=menukipeiris&theme=tokyo-night&hide_border=true&custom_title=Menuki's%20GitHub%20Activity%20Graph" alt="Contribution Graph" />
@@ -60,6 +69,14 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=menukipeiris&label=Profile%20Views&color=58a6ff&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Code is poetry written in logic."</i>
 </div>
